@@ -1,0 +1,6 @@
+user------- /signup, /login, /getblogs/, /createblog with token, /delete blog with token ,
+            /editblog with token , /getblogbyuser , /category
+
+
+            /signup ----- {name,email, address, mobile no, password}
+            /createblog ---- {authername,title,descryption,image}
